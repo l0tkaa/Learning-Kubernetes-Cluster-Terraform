@@ -82,7 +82,7 @@ This subproject focuses on advanced Kubernetes configurations and practices.
 
 ---
 
-## **Planned Phases**
+### **Planned Phases**
 
 1. **Phase 8:** Security and Policies
    - Implement RBAC, Network Policies, and Pod Security Policies.
