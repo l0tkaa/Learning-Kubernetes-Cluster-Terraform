@@ -36,16 +36,18 @@ Navigate to `/learning-project/` for foundational phases.
 
 ---
 
-### **Placeholder READMEs for Future Subprojects**
+# **Placeholder READMEs for Future Subprojects**
 
 
-# **Production-Grade Deployments**
 
-This subproject focuses on deploying real-world, production-grade Kubernetes applications.
 
 ---
 
-## **Planned Phases**
+## **Production-Grade Deployments**
+This subproject focuses on deploying real-world, production-grade Kubernetes applications.
+
+--
+### Planned Phases
 
 1. **Phase 4:** Multi-Tier Applications
    - Deploy frontend-backend-database applications.
@@ -53,3 +55,16 @@ This subproject focuses on deploying real-world, production-grade Kubernetes app
    - Automate deployments with GitHub Actions or Jenkins.
 
 ---
+
+## **Monitoring and Observability**
+
+This subproject explores monitoring, metrics, and centralized logging for Kubernetes clusters.
+
+---
+
+### **Planned Phases**
+
+1. **Phase 6:** Prometheus and Grafana
+   - Monitor metrics and create dashboards.
+2. **Phase 7:** Centralized Logging
+   - Set up the Elasticsearch-Fluentd-Kibana (EFK) stack.
