@@ -32,10 +32,7 @@ As you progress, the repository will expand into modular subprojects for advance
 
 ## **Getting Started**
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Learning-Kubernetes-Cluster-Terraform.git
-   cd Learning-Kubernetes-Cluster-Terraform
+Navigate to `/learning-project/` for foundational phases.
 
 ---
 
