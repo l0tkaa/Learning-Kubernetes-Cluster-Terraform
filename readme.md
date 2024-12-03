@@ -36,6 +36,10 @@ Navigate to `/learning-project/` for foundational phases.
 
 ---
 
+
+
+<br><br>
+
 # **Placeholder READMEs for Future Subprojects**
 
 
@@ -46,7 +50,8 @@ Navigate to `/learning-project/` for foundational phases.
 ## **Production-Grade Deployments**
 This subproject focuses on deploying real-world, production-grade Kubernetes applications.
 
---
+---
+
 ### Planned Phases
 
 1. **Phase 4:** Multi-Tier Applications
