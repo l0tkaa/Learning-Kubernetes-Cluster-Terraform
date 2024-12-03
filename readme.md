@@ -76,7 +76,7 @@ This subproject explores monitoring, metrics, and centralized logging for Kubern
 
 
 
-   ## **Advanced Kubernetes Features**
+## **Advanced Kubernetes Features**
 
 This subproject focuses on advanced Kubernetes configurations and practices.
 
