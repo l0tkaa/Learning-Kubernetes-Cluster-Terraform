@@ -41,8 +41,7 @@ As you progress, the repository will expand into modular subprojects for advance
 
 ### **Placeholder READMEs for Future Subprojects**
 
-#### **Production-Grade Deployments README**
-```markdown
+
 # **Production-Grade Deployments**
 
 This subproject focuses on deploying real-world, production-grade Kubernetes applications.
