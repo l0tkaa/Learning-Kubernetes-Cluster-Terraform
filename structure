@@ -1,0 +1,27 @@
+Learning-Kubernetes-Cluster-Terraform/
+├── learning-project/
+│   ├── phase-0/                     # Organization and Planning
+│   ├── phase-1/                     # Foundations of Kubernetes
+│   ├── phase-2/                     # Terraform Basics
+├── production-grade-deployments/
+│   ├── planning/                    # Planning Phase
+│   ├── phase-3/                     # Scaling and Resilience
+│   ├── phase-4/                     # Persistent Storage
+│   ├── phase-5/                    # Infrastructure as Code Optimization
+├── monitoring-and-observability/
+│   ├── planning/                    # Planning Phase
+│   ├── phase-6/                     # Monitoring and Observability
+│   ├── phase-7/                     # Centralized Logging
+├── advanced-kubernetes-features/
+│   ├── planning/                    # Planning Phase
+│   ├── phase-8/                     # Security and Policies
+│   ├── phase-9/                     # Service Mesh
+│   ├── phase-10/                     # Multi-Cluster Management
+│   ├── phase-11/                    # Disaster Recovery Planning
+│   ├── phase-12/                    # Kubernetes API Extensions
+├── future-projects/
+│   ├── real-world-projects/         # Real-World Projects (Phase 13)
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+├── LICENSE
+├── README.md
