@@ -37,7 +37,7 @@ Learn how to:
 ## Next Steps
 
 After Phase 2, I’ll decide whether to focus on scaling clusters, monitoring, or more advanced Kubernetes topics.
-[**Future Projects**](./future-projects)
+[**Future Projects**](../future-projects)
 ---
 
 ## Why This Matters
