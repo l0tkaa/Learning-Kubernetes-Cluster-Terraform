@@ -35,31 +35,3 @@ Navigate to `/learning-project/` for foundational phases.
 
 
 
-
-
----
-
-# Learning Kubernetes and Terraform
-
-This repository is organized into two main sections:
-
-## **1. Learning Project**
-A hands-on, phased approach to learning Kubernetes and Terraform, starting from the basics.
-
-### Phases
-| Phase    | Description                                     | Path                              |
-|----------|-------------------------------------------------|-----------------------------------|
-| Phase 0  | Organization and Planning                      | `learning-project/phase0/`      |
-| Phase 1  | Foundations of Kubernetes                      | `learning-project/phase1/`      |
-| Phase 2  | Terraform Basics                               | `learning-project/phase2/`      |
----
-
-## **2. Future Projects**
-Advanced Kubernetes and Terraform topics for expanding your skills.
-
-### Subprojects
-| Project Name                  | Description                                     | Path                                  |
-|-------------------------------|-------------------------------------------------|---------------------------------------|
-| Advanced Kubernetes Features  | Security, service mesh, and multi-cluster setups | `future-projects/advanced-kubernetes-features/` |
-| Monitoring and Observability  | Setting up Prometheus, Grafana, and logging     | `future-projects/monitoring-and-observability/` |
-| Production-Grade Deployments  | Best practices for scalable deployments         | `future-projects/production-grade-deployments/` |
